@@ -3,6 +3,7 @@
 What's QtO?
 ==
 **QtO** is quick graphical language in VRChat.
+
 You can talk in mic-less situation by object paterns(Cube, tube, sphere, and capsule).
 If you need to communication, you must connect mic. But now, cannot talk it because you have problems.
 In that situation, you can use QtO.
