@@ -14,7 +14,7 @@ Get started
 - Tube
 - Sphere
 - Capsule
-- QR Code(to this page) _**optional*_
+- QR Code(to this page) **optional*
 
 Override Emotes or place in your world.
 
