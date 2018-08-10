@@ -20,12 +20,12 @@ Override Emotes or place in your world.
 
 Fixed pattern phrase
 ==
-Phrase|A|B
---- | --- | ---
-Hi|Cube|Tube
-Bye|Tube|Capsule
-I'm Going AFK|Cube|Capsule
-Repeat|Tube|Tube
-Why?|Capsule|Capsule
-Got it|Cube|Cube
-Thanks|Sphere|Sphere
+|Phrase|A|B|
+|:---|:---|:---|
+|Hi|Cube|Tube|
+|Bye|Tube|Capsule|
+|I'm Going AFK|Cube|Capsule|
+|Repeat|Tube|Tube|
+|Why?|Capsule|Capsule|
+|Got it|Cube|Cube|
+|Thanks|Sphere|Sphere|
