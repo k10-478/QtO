@@ -19,6 +19,9 @@ Get started
 
 Override Emotes or place in your world.
 
+Pattern list
+==
+
 ###### Fixed pattern phrase
 
 | Phrase | A | B |
