@@ -19,8 +19,8 @@ Get started
 
 Override Emotes or place in your world.
 
-Fixed pattern phrase
-==
+###### Fixed pattern phrase
+
 | Phrase | A | B |
 |:-------------|:-------------|:-------------
 | Hi | Cube | Tube |
