@@ -21,7 +21,7 @@ Override Emotes or place in your world.
 Fixed pattern phrase
 ==
 |Phrase|A|B|
-|:---|:---|:---|
+|:--------|:------|:------|
 |Hi|Cube|Tube|
 |Bye|Tube|Capsule|
 |I'm Going AFK|Cube|Capsule|
