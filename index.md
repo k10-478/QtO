@@ -30,3 +30,12 @@ Fixed pattern phrase
 | Why? | Capsule | Capsule |
 | Got it | Cube | Cube |
 | Thanks | Sphere | Sphere |
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
